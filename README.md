@@ -39,12 +39,10 @@ From the analysis, the following statistics were obtained:
 - **Minimum Daily Return:** −0.518 (≈ −51.8%)
 
 These results show that Apple stock has a positive average return but also experiences significant short-term volatility.
-
 ## Visualization
 A line chart was created to visualize daily returns over time, making it easy to identify periods of stability and high volatility.
 
-*(Insert the chart image here, e.g. `Picture1.png` using: `![Daily Returns Chart](Picture1.png)`)*
-
+![Daily Returns Chart](Picture1.png)
 ## Interpretation
 This analysis shows that:
 - Apple Inc. has positive long-term growth, as indicated by the positive average daily return.  
