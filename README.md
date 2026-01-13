@@ -1,5 +1,5 @@
-# Apple Daily Returns Analysis
-
+# Financial Data Analysis — Apple Inc. Daily Stock Returns
+An exploratory financial data analysis project focused on understanding Apple Inc.'s daily stock returns, volatility, and risk using historical market data.
 ## Overview
 This project analyzes the daily stock price movements of Apple Inc. in order to understand its return, volatility, and risk characteristics.
 
